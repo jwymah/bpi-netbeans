@@ -1,7 +1,7 @@
+# For running outside of Netbeans, see and use https://github.com/jwymah/bpi-gradle instead
+
 # Run Instructions:
 Open the project into netbeans and run using the Main class. Further input instructions are presented at run time.
-
-..will get mirror project up using gradle... to avoid netbeans. 
 
 # Misc. Info
 This was created as a maven project on OSX in netbeans.
