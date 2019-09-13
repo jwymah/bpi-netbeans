@@ -6,4 +6,4 @@ java version information:
 
 Import the project into netbeans and run using the Main class. Further input instructions are presented at run time.
 
-..will get mirror project up using gradle...
+..will get mirror project up using gradle... for those without netbeans. 
