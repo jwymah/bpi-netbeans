@@ -1,9 +1,9 @@
-Run Instructions:
+# Run Instructions:
 Open the project into netbeans and run using the Main class. Further input instructions are presented at run time.
 
 ..will get mirror project up using gradle... to avoid netbeans. 
 
-Misc. Info
+# Misc. Info
 This was created as a maven project on OSX in netbeans.
 java version information:
     java version "1.8.0_60"
